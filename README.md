@@ -7,7 +7,7 @@ Users simply enter a topic (e.g., Vegan Cake, Gluten-Free Bread) and specify wor
 To enhance user experience, the system displays a programmer joke while generating the blog — making the wait interactive and fun.
 This project demonstrates practical implementation of LLMs in content automation and blogging workflows.
 ________________________________________
-🏗️ Project Architecture
+ Project Architecture
 FLAVOUR-FUSION/
 ├── app.py                # Main Streamlit application
 ├── requirements.txt     # Project dependencies
