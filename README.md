@@ -84,7 +84,7 @@ google-generativeai
 |------------|----------------------|
 | Frontend   | Streamlit            |
 | Backend    | Python               |
-| AI Model   | Gemini 1.5 Flash     |
+| AI Model   | Gemini 2.5 Flash     |
 | API        | Google Generative AI |
 | Deployment | Streamlit Cloud      |
 
